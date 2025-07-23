@@ -1,5 +1,5 @@
-# Swiggy‑Style Food Ordering UI (React + Vite + Supabase)
-<img width="1279" height="80" alt="image" src="https://github.com/user-attachments/assets/85b74f3a-a7b6-4955-9cb8-17740f98da98" />
+# Swiggy‑Style Food Ordering UI (React+Vite+Supabase)
+<img width="1275" height="89" alt="image" src="https://github.com/user-attachments/assets/41b93d47-a882-4529-831b-de9fff8dca73" />
 
 A learning project that recreates core UI flows from Swiggy: sticky header with location selector, slide‑in drawer, search panel, category rail, and top restaurants carousel. Data loads from Supabase (public read) and maps into reusable React components styled with Tailwind CSS.
 
