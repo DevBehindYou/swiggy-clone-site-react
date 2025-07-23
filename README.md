@@ -52,10 +52,9 @@ export const supabase = createClient(supabaseUrl, supabaseAnonKey);
 ## 🖼️ Screenshots
 
 Screenshots or GIFs here:
-
-<img width="1291" height="577" alt="image" src="https://github.com/user-attachments/assets/0fe12454-b83f-4b5a-82ff-c0d9fd22f60a" />
-<img width="1332" height="579" alt="image" src="https://github.com/user-attachments/assets/a6885849-698e-4be0-846f-186c19977780" />
-
+<img width="1325" height="651" alt="screely-1753267536405" src="https://github.com/user-attachments/assets/44b8997e-cd92-44e4-b694-69cd734d84c3" />
+<img width="1362" height="673" alt="screely-1753267579085" src="https://github.com/user-attachments/assets/7c1cc671-0243-460c-8889-f5326f95c904" />
+<img width="1375" height="600" alt="screely-1753267749914" src="https://github.com/user-attachments/assets/888aada0-ed44-4dbe-bad0-900e5ac1e1d1" />
 
 
 ### 📁 Project Structure
