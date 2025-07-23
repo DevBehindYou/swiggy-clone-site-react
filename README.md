@@ -9,7 +9,7 @@ A learning project that recreates core UI flows from Swiggy: sticky header with 
 
 ### 🚀 Quick Start (TL;DR)
 ```
-git clone [<YOUR_REPO_URL>](https://github.com/DevBehindYou/swiggy-clone-site-react.git) swiggy-clone
+git clone https://github.com/DevBehindYou/swiggy-clone-site-react.git swiggy-clone
 cd swiggy-clone
 
 # 2. Install deps
